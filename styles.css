@@ -1,0 +1,94 @@
+body{
+    background-color: black;
+    button{
+        padding: 5px;
+        text-decoration: none;
+        color: white;
+        background-color: blue;
+        border-radius: 25px;
+        cursor: pointer;
+        width: 250px;
+    }
+    text-align: center;
+    #home
+    background-color: white;
+    font-size: large;
+    h{
+        color: blue;
+    }
+    img{
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+    }
+}
+footer{
+    color: white;
+    background-color: black;
+    padding: 20px;
+    form{
+        padding: 30px;
+        color: blue;
+        background-color: white;
+    }
+}
+
+   header{
+    color: red;
+    background-color: black;
+    font-size: 35px;
+    text-align: center;
+    cursor: pointer;
+    padding: 20px;
+
+   } 
+   .website{
+    color: green;
+    text-align: center;
+}
+    
+  
+    a{
+        text-align: center;
+        text-decoration: none;
+        color: blue;
+       
+        
+
+    #link{
+      width: 20px;
+      text-decoration: none;
+      color: white;
+      text-align: center;
+    }
+}
+.container{
+    background-color: white;
+   
+    color: black;
+    padding: 20px;
+    border: solid;
+}
+.about{
+    padding: 200px;
+    text-decoration: none;
+    background-color: lightblue;
+    margin: 30px 30px 30px 30px;
+    h1{
+        color: blue;
+        font-size: large;
+        font-family: 'Times New Roman', Times, serif;
+        
+    }
+}
+section{
+    padding: 56px;
+    h1{
+        color: blue;
+        padding: 23px;
+        background-color: white;
+    }
+    h2{
+        color: black;
+    }
+}
